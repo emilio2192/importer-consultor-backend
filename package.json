@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend with typeorm, objection and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emilio2192/importer-consultor-backend.git"
+  },
+  "keywords": [
+    "node.js",
+    "typescript",
+    "typeorm",
+    "mongodb"
+  ],
+  "author": "Emilio Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilio2192/importer-consultor-backend/issues"
+  },
+  "homepage": "https://github.com/emilio2192/importer-consultor-backend#readme"
+}
